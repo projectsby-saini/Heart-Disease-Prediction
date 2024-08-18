@@ -3,6 +3,7 @@ Developed a machine learning model using Python and libraries such as scikit-lea
 
 # Screeenshots
 
+![1_9OtX4FBo_iVH692-txOrrA](https://github.com/user-attachments/assets/f29589a7-eaf1-480d-ba96-ece6e4453372)
 ![Screenshot 2024-08-18 233522](https://github.com/user-attachments/assets/4badc040-e021-4018-8482-e493c74384f8)
 ![Screenshot 2024-08-18 233535](https://github.com/user-attachments/assets/8623cf87-d3e1-4989-a0dd-0b76d1e26bd3)
 ![Screenshot 2024-08-18 233544](https://github.com/user-attachments/assets/571850d5-b238-461f-ad87-19098afbb532)
